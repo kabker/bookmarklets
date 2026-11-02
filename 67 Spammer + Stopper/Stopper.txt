@@ -1,0 +1,1 @@
+javascript:(function(){if(window.__stop67){window.__stop67();}else{document.querySelectorAll('div').forEach(e=>{if(e.innerText==='67'&&e.style.zIndex==='999999')e.remove();});}})();
