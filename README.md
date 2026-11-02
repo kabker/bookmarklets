@@ -1,7 +1,4 @@
 # bookmarklets
-ummmmmmm.... ☝️bookmarklets!
-
-
 DISCLAIMER! THE ONES WITHOUT A STAR (*) AREN'T MINE! ONLY THE ONES WITH A STAR ARE MINE!
 
 STEPS:
